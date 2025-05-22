@@ -1,0 +1,9 @@
+# Level 1 Rankings
+
+1. Alex - Score: 96, Time: 32s
+2. Riley - Score: 96, Time: 53s
+3. Morgan - Score: 88, Time: 50s
+4. Jordan - Score: 71, Time: 50s
+5. Casey - Score: 66, Time: 116s
+6. Jamie - Score: 50, Time: 117s
+7. Taylor - Score: 43, Time: 36s
